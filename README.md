@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+You can leave me a message via [GitHub discussions](https://github.com/lemeurherve/lemeurherve/discussions/categories/guestbook).
+
 <!--
 **lemeurherve/lemeurherve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
